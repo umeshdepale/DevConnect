@@ -4,6 +4,8 @@ DevConnect is a platform for connecting clients with developers for one-on-one v
 
 ---
 
+Video - https://youtu.be/E_ZHtMOnDqE?si=rB-bwMmfEwZvPNSf
+
 ## Features
 
 - **User Roles**:
